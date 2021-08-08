@@ -29,3 +29,5 @@ So far there are no contributors in this project.
 * Instagram @ _naphtalimakori
 * Facebook @ Naphtali McOrri
 * Linked In @ Naphtali Makori
+
+## License
