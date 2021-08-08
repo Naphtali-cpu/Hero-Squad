@@ -19,5 +19,5 @@ So far there are no contributors in this project.
 ## Technologies Used
 
 * Java
-* HANDLEBARS
-* CSS
+* Handlebars
+* CSS 3
