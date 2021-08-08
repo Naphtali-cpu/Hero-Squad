@@ -18,6 +18,6 @@ So far there are no contributors in this project.
 
 ## Technologies Used
 
-* JAVA
+* Java
 * HANDLEBARS
 * CSS
