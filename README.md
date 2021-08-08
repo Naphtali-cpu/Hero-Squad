@@ -16,3 +16,4 @@ So far there are no contributors in this project.
 |Page loads.                         |   User goes to add squad page, adds squad name, purpose and maximum size of the squad. <br><br> User goes to add hero page, adds hero's weakness, age, strength, name.                  |At the homepage the user is able to see the squad's name. <br><br><br> Again, at the home page the user is able to see number of heroes he/she created and their details.     |                       |
 
 
+## Technologies Used
