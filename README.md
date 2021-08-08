@@ -21,3 +21,5 @@ So far there are no contributors in this project.
 * Java
 * Handlebars
 * CSS 3
+
+## Contact Information
