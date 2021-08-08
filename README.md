@@ -8,4 +8,4 @@ This is a java application that allows user to recruit a well-balanced team of s
 
 ## Contributors
 
-SO far there are no contributors in this project.
+S0 far there are no contributors in this project.
