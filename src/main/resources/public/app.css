@@ -1,0 +1,19 @@
+body {
+  background: #242582;
+  background: url("https://www.pngmart.com/files/13/PUBG-Squad-Team-PNG-HD.png") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.container{
+  margin-top: 2em;
+  padding: px;
+  border-radius: 5px;
+  background: #ddb892;
+  width: 40%;
+}
+.navigation{
+   background: #8a5a44;
+}
+.navigation li a{
+  text-decoration: none;
+}
