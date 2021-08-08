@@ -8,4 +8,6 @@ This is a java application that allows user to recruit a well-balanced team of s
 
 ## Contributors
 
-S0 far there are no contributors in this project.
+So far there are no contributors in this project.
+
+## Behaviour Driven Development(BDD)
