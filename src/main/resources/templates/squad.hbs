@@ -2,14 +2,14 @@
 {{#partial "content"}}
     <div class="container">
     {{#if squad}}
-            <h1 class="text-warning"><strong>{{squad.squadName}}</strong></h1>
+            <h1 class="text"><strong>{{squad.squadName}}</strong></h1><br>
             <div class="container">
                 <h1 class="text-warning"><strong> HEROES:</strong></h1>
                 {{#if squad.squadHeroes}}
                     {{#each squad.squadHeroes}}
                         <div class="card w-75">
                             <div class="card-body">
-                                <h3 class="card-title text-warning"><strong>{{heroName}}</strong></h3>
+                                <h3 class="card-title text"><strong>{{heroName}}</strong></h3><br>
                                 <p class="card-text"><strong>{{heroAge}}</strong> years old Power: <strong>{{heroPower}}</strong> Weakness: <strong>{{heroWeakness}}</strong> Squad: <strong>{{heroSquad}}</strong></p>
                             </div>
                         </div>
